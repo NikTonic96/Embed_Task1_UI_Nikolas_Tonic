@@ -21,7 +21,7 @@ the following commands in your terminal:
 <li>
 Navigate into the project folder with: 
 
-`cd interview-task-selenium`
+`cd Embed_Task1_UI_Nikolas_Tonic`
 </li>
 </ul>
 
