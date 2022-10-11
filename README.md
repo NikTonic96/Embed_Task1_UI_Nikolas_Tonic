@@ -16,7 +16,7 @@ the instructions in the following link:
 First you have to clone the project on your local machine by entering
 the following commands in your terminal:
 
-`git clone git@github.com:NikTonic96/.git`
+`git clone git@github.com:NikTonic96/Embed_Task1_UI_Nikolas_Tonic.git`
 </li>
 <li>
 Navigate into the project folder with: 
